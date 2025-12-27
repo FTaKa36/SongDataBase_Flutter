@@ -254,7 +254,7 @@ class ProfilePage extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          "Nama: Faathir KuspratamaPasha\nNIM: A22.2024.03047\nKelas: DTI",
+          "I made this for my training and I made this with helping from AI too",
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 20),
         ),
@@ -262,3 +262,4 @@ class ProfilePage extends StatelessWidget {
     );
   }
 }
+
