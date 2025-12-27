@@ -59,5 +59,51 @@ Berisi catatan sederhana:
 
 ---
 
+
+---
+
+## English
+
+SongDataBase_Flutter is a Flutter-based mobile application designed to store and manage song data.
+This application was created for training purposes and as a college assignment, as part of learning Flutter development.
+
+⚠️ Note:
+This application uses Indonesian language because it was developed for academic purposes.
+
+---
+
+### Application Features
+
+This application consists of 3 main pages:
+
+#### 1️⃣ Song Input Page
+Used to add new song data with the following fields:
+- Song Name
+- Duration (in minutes)
+- Genre (Pop, Rock, Jazz, Dangdut)
+- Record Type (Acoustic / Studio)
+- Band / Singer
+- Album
+- Release Date
+
+---
+
+#### 2️⃣ Song List Page
+- Displays saved songs
+- Delete song by swiping left
+
+---
+
+#### 3️⃣ Note Page
+Contains a simple note:
+
+> "I made this for my training and I made this with helping from AI too"
+
+---
+
+### Disclaimer
+This project was created for learning and college assignment purposes.
+The repository is public for fun and documentation.
+Anyone is welcome to explore and use this project.
 ### 📂 Struktur Project
 
